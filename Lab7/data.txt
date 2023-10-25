@@ -1,0 +1,2 @@
+This content is written by Thread T2.
+.txt file.
